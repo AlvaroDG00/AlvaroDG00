@@ -10,7 +10,11 @@ Me encanta transformar ideas en aplicaciones funcionales, tanto para dispositivo
 * 📚 Actualmente aprendiendo: **React, Node.js, JavaScript**
 * 🎯 Mis objetivos: **Convertirme en un desarrollador de Software FullStack**
 * 💬 Pregúntame sobre: **Java, Kotlin, bases de datos relacionales, Python y demás.**
-* 📫 Cómo contactarme: **https://www.linkedin.com/in/%C3%A1lvaro-d%C3%A1maso-gonz%C3%A1lez-945b52281/**
+* 📫 Cómo contactarme: **dgalvaro64@gmail.com**
+
+<a href="https://www.linkedin.com/in/%C3%A1lvaro-d%C3%A1maso-gonz%C3%A1lez-945b52281/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
 ## 🛠️ Stack Tecnológico y Herramientas
 
