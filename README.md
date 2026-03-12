@@ -6,7 +6,7 @@ Me encanta transformar ideas en aplicaciones funcionales, tanto para dispositivo
 
 ## 🚀 Sobre mí
 
-* 💻 Actualmente trabajando en: **[Menciona tu proyecto actual, ej: Una app de gestión de tareas en Android]**
+* 💻 Actualmente trabajando en: **https://github.com/AlvaroDG00/CafES_APP**
 * 📚 Actualmente aprendiendo: **React, Node.js, JavaScript**
 * 🎯 Mis objetivos: **Convertirme en un desarrollador de Software FullStack**
 * 💬 Pregúntame sobre: **Java, Kotlin, bases de datos relacionales, Python y demás.**
@@ -45,6 +45,16 @@ A lo largo de mi formación en DAM y proyectos personales, he trabajado con las 
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/MongoDB_Compass-41A247?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Compass"/>
   <img src="https://img.shields.io/badge/pgAdmin_4-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgAdmin 4"/>
+</p>
+
+## 📊 Mis Estadísticas en GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlvaroDG00&show_icons=true&theme=tokyonight&hide_border=true&title_color=0095D5" alt="Estadísticas de GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroDG00&layout=compact&theme=tokyonight&hide_border=true&title_color=0095D5" alt="Lenguajes más usados" />
 </p>
 
 ---
