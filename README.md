@@ -1,26 +1,26 @@
-# ¡Hola! Soy Álvaro 👋
+# Hi! I'm Álvaro 👋
 
-¡Bienvenido/a a mi GitHub! Soy un/a desarrollador/a de software apasionado/a por la creación de soluciones tecnológicas, estudiante del **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**. 
+Welcome to my GitHub! I'm a software developer passionate about creating technological solutions, currently a student of the **Higher Degree in Multi-platform Application Development (DAM)**. 
 
-Me encanta transformar ideas en aplicaciones funcionales, tanto para dispositivos móviles como para entornos de escritorio, asegurando siempre un código limpio y eficiente.
+I love transforming ideas into functional applications, both for mobile devices and desktop environments, always ensuring clean and efficient code.
 
-## 🚀 Sobre mí
+## 🚀 About me
 
-* 💻 Actualmente trabajando en: **https://github.com/AlvaroDG00/CafES_APP**
-* 📚 Actualmente aprendiendo: **React, Node.js, JavaScript**
-* 🎯 Mis objetivos: **Convertirme en un desarrollador de Software FullStack**
-* 💬 Pregúntame sobre: **Java, Kotlin, bases de datos relacionales, Python y demás.**
-* 📫 Cómo contactarme: **dgalvaro64@gmail.com**
+* 💻 Currently working on: **https://github.com/AlvaroDG00/CafES_APP**
+* 📚 Currently learning: **React, Node.js, JavaScript**
+* 🎯 My goals: **To become a Full-Stack Software Developer**
+* 💬 Ask me about: **Java, Kotlin, relational databases, Python, and more.**
+* 📫 How to reach me: **dgalvaro64@gmail.com**
 
 <a href="https://www.linkedin.com/in/%C3%A1lvaro-d%C3%A1maso-gonz%C3%A1lez-945b52281/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-## 🛠️ Stack Tecnológico y Herramientas
+## 🛠️ Tech Stack and Tools
 
-A lo largo de mi formación en DAM y proyectos personales, he trabajado con las siguientes tecnologías:
+Throughout my studies in DAM and personal projects, I have worked with the following technologies:
 
-### 💻 Lenguajes de Programación
+### 💻 Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -28,20 +28,20 @@ A lo largo de mi formación en DAM y proyectos personales, he trabajado con las 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
-### 📱 Desarrollo Móvil y Desktop
+### 📱 Mobile and Desktop Development
 <p align="left">
   <img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
   <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Compose"/>
 </p>
 
-### 🗄️ Bases de Datos
+### 🗄️ Databases
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="MongoDB"/>
 </p>
 
-### ⚙️ Entornos y Herramientas
+### ⚙️ Environments and Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
@@ -51,15 +51,15 @@ A lo largo de mi formación en DAM y proyectos personales, he trabajado con las 
   <img src="https://img.shields.io/badge/pgAdmin_4-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgAdmin 4"/>
 </p>
 
-## 📊 Mis Estadísticas en GitHub
+## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlvaroDG00&show_icons=true&theme=tokyonight&hide_border=true&title_color=0095D5" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlvaroDG00&show_icons=true&theme=tokyonight&hide_border=true&title_color=0095D5" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroDG00&layout=compact&theme=tokyonight&hide_border=true&title_color=0095D5" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroDG00&layout=compact&theme=tokyonight&hide_border=true&title_color=0095D5" alt="Top Languages" />
 </p>
 
 ---
-⭐️ *¡Gracias por pasarte por mi perfil! No dudes en contactarme si quieres colaborar en algún proyecto.*
+⭐️ *Thanks for visiting my profile! Don't hesitate to reach out if you want to collaborate on a project.*
