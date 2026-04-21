@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="[URL_DEL_GIF](https://imgs.search.brave.com/gIJFxlFtkr1z1EkGbXStHkSJ7ctTtX1kfTZyypf8tcU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTIuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhObVF4YnpaMWJH/NDBjREp0Y3pKdE5Y/Tm5hM0JsT1dSemIz/bDVNbWhzZHpOa2Ft/aDBhVGQzTXlabGNE/MTJNVjlwYm5SbGNt/NWhiRjluYVdaZllu/bGZhV1FtWTNROVp3/LzNvejh4S2t1WTY1/SEpsQzRscS9naXBo/eS5naWY.gif)" width="300" alt="Just Vibing" />
+</p>
+
+
 # Hi! I'm Álvaro 👋
 
 Welcome to my GitHub! I'm a software developer passionate about creating technological solutions, currently a student of the **Higher Degree in Multi-platform Application Development (DAM)**. 
