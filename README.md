@@ -1,8 +1,6 @@
-
-
-https://github.com/user-attachments/assets/ea6fcfae-3c6a-4695-ba46-bce1a2bbc873
-
-
+<p align="center">
+  <img src="https://s7.ezgif.com/tmp/ezgif-799da56dae529617.gif" width="400" alt="Descripción del GIF" />
+</p>
 
 
 # Hi! I'm Álvaro 👋
