@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://s7.ezgif.com/tmp/ezgif-799da56dae529617.gif" width="400" alt="Descripción del GIF" />
+  <img src="https://s7.ezgif.com/tmp/ezgif-799da56dae529617.gif" width="700" alt="Descripción del GIF" />
 </p>
 
 
