@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://s7.ezgif.com/tmp/ezgif-799da56dae529617.gif" width="700" alt="Descripción del GIF" />
-</p>
-
-
 # Hi! I'm Álvaro 👋
 
 Welcome to my GitHub! I'm a software developer passionate about creating technological solutions, currently a student of the **Higher Degree in Multi-platform Application Development (DAM)**. 
